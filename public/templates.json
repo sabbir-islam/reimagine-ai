@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Winter Casual Wear",
+    "category": "Commercial",
+    "image": "https://i.ibb.co.com/Xf30JG7N/image.png",
+    "prompt": "Professional studio photo of {product} on white background, soft lighting, high quality, 4k, sharp focus"
+  },
+  {
+    "id": 2,
+    "name": "Artistic Portrait",
+    "category": "Art",
+    "image": "https://i.ibb.co.com/tpKMnHJz/image.png",
+    "prompt": "Oil painting portrait of {subject}, dreamy atmosphere, visible brush strokes, detailed, artistic masterpiece"
+  },
+  {
+    "id": 3,
+    "name": "Landscape Scene",
+    "category": "Nature",
+    "image": "https://i.ibb.co.com/xtHYWKwS/image.png",
+    "prompt": "Golden hour view of {location}, clear weather, photorealistic style, highly detailed, dramatic clouds, vivid colors"
+  },
+  {
+    "id": 4,
+    "name": "3D Render",
+    "category": "Digital",
+    "image": "https://i.ibb.co.com/BV3L2zqV/image.png",
+    "prompt": "Modern minimalist 3D render of {object}, metallic material, studio lighting, octane render, 8k ultra HD"
+  },
+  {
+    "id": 5,
+    "name": "Character Design",
+    "category": "Character",
+    "image": "https://i.ibb.co.com/5h4z3R15/image.png",
+    "prompt": "Anime style character design of {character}, dynamic pose, detailed outfit, simple background, concept art"
+  },
+  {
+    "id": 6,
+    "name": "Food Photography",
+    "category": "Commercial",
+    "image": "https://i.ibb.co.com/fVrLrwYZ/image.png",
+    "prompt": "Professional overhead shot of {food} on rustic wooden table, natural lighting, appetizing, food photography, 4k"
+  },
+  {
+    "id": 7,
+    "name": "Interior Design",
+    "category": "Architecture",
+    "image": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?w=400&h=300&fit=crop",
+    "prompt": "Modern minimalist {room} design, scandinavian style, natural light, cozy atmosphere, architectural photography"
+  },
+  {
+    "id": 8,
+    "name": "Fantasy Art",
+    "category": "Art",
+    "image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=400&h=300&fit=crop",
+    "prompt": "Epic fantasy {scene}, magical atmosphere, dramatic lighting, highly detailed, digital painting, vibrant colors"
+  },
+  {
+    "id": 9,
+    "name": "Logo Design",
+    "category": "Branding",
+    "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=400&h=300&fit=crop",
+    "prompt": "Modern minimalist {company} logo, geometric shapes, gradient colors, clean lines, vector style, white background"
+  },
+  {
+    "id": 10,
+    "name": "Abstract Art",
+    "category": "Art",
+    "image": "https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=400&h=300&fit=crop",
+    "prompt": "Abstract {style} artwork, vibrant colors, flowing shapes, modern art, high resolution, artistic composition"
+  },
+  {
+    "id": 11,
+    "name": "Pet Portrait",
+    "category": "Character",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=400&h=300&fit=crop",
+    "prompt": "Professional portrait of {pet}, studio lighting, detailed fur texture, sharp focus, pet photography, 4k quality"
+  },
+  {
+    "id": 12,
+    "name": "Fashion Photography",
+    "category": "Commercial",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=400&h=300&fit=crop",
+    "prompt": "High fashion editorial photo of {subject}, {style} aesthetic, professional lighting, vogue magazine style, 4k"
+  }
+]

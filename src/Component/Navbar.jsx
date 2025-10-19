@@ -9,8 +9,8 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo and Name */}
           <div className="flex items-center space-x-2">
-            <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xl">R</span>
+            <div className="w-8 h-8 bg-gradient-to-b  from-[#5C3E94] to-[#aea0c9] rounded-lg flex items-center justify-center">
+              <span className="text-transparent bg-gradient-to-b from-orange-100 to-orange-400 bg-clip-text font-bold text-xl">R</span>
             </div>
             <span className="text-xl font-semibold text-gray-800">
               Reimagine
@@ -19,7 +19,7 @@ const Navbar = () => {
 
           {/* Desktop Sign Up Button */}
           <div className="hidden md:block">
-            <button className="bg-blue-600 text-white px-6 py-2 rounded-lg hover:bg-blue-700 transition-colors duration-200">
+            <button className="border-2 hover:text-white px-6 py-2 rounded-lg hover:bg-[#393E46] transition-colors duration-200">
               Sign Up
             </button>
           </div>
